@@ -1,0 +1,83 @@
+
+{
+    "providers": [
+    {
+      "id": 1,
+      "name": "Charlotta Enckell",
+      "rating": "4.9",
+      "reviewsCount": 41,
+      "availableTimes": ["Tänään 12:45", "Tänään 13:45"],
+      "imageUrl": "/images/profile.png",
+      "isAnAdd": true,
+      "ServiceName": "MediStep",
+      "address": "Kastelholmantie 4 a 33, 33, 9. krs, Helsinki",
+      "logoUrl": "/images/mediStep.png"
+    },
+    {
+      "id": 2,
+      "name": "Johanna Kallio",
+      "rating": "3",
+      "reviewsCount": 35,
+      "availableTimes": ["Tänään 17:45", "Tänään 17:45"],
+      "imageUrl": "/images/profile.png",
+      "logoUrl": "/images/mediStep.png",
+      "isAnAdd": true,
+      "ServiceName": "MediStep",
+      "address": "Kastelholmantie 4 b 33, 33, 9. krs, Helsinki"
+    },
+    {
+      "id": 3,
+      "name": "Erik Virtanen",
+      "rating": "4.2",
+      "reviewsCount": 27,
+      "availableTimes": ["Huomenna 10:00", "Huomenna 11:00"],
+      "imageUrl": "/images/profile.png",
+      "logoUrl": "/images/mediStep.png",
+      "ServiceName": "MediStep",
+      "address": "Kastelholmantie 5 a 20, 20, 8. krs, Helsinki"
+    },
+    {
+      "id": 4,
+      "name": "Liisa Korhonen",
+      "rating": "4.7",
+      "reviewsCount": 50,
+      "availableTimes": ["Huomenna 14:00", "Huomenna 15:30"],
+      "imageUrl": "/images/profile.png",
+      "logoUrl": "/images/mediStep.png",
+      "ServiceName": "MediStep",
+      "address": "Kastelholmantie 6 c 12, 12, 7. krs, Helsinki"
+    },
+    {
+      "id": 5,
+      "name": "Matti Järvinen",
+      "rating": "5.0",
+      "reviewsCount": 48,
+      "availableTimes": ["Perjantai 09:00", "Perjantai 12:00"],
+      "imageUrl": "/images/profile.png",
+      "logoUrl": "/images/mediStep.png",
+      "ServiceName": "MediStep",
+      "address": "Kastelholmantie 7 d 34, 34, 10. krs, Helsinki"
+    },
+    {
+      "id": 6,
+      "name": "Sara Heinonen",
+      "rating": "4.8",
+      "reviewsCount": 32,
+      "availableTimes": ["Perjantai 13:00", "Perjantai 16:00"],
+      "imageUrl": "/images/profile.png",
+      "logoUrl": "/images/mediStep.png",
+      "ServiceName": "MediStep",
+      "address": "Kastelholmantie 8 e 56, 56, 11. krs, Helsinki"
+    },
+    {
+      "id": 7,
+      "name": "Tommi Lahtinen",
+      "rating": "3.9",
+      "reviewsCount": 22,
+      "availableTimes": [],
+      "imageUrl": "/images/profile.png",
+      "logoUrl": "/images/mediStep.png",
+      "ServiceName": "MediStep",
+      "address": "Kastelholmantie 9 f 45, 45, 12. krs, Helsinki"
+    }
+]}
